@@ -8,7 +8,7 @@ function onDeviceReady() {
 
 function aboutMe() {
 info1 = 'Hi, its me' + '\n' +
-'My name : ' +  ' Jarek ' + '\n';
+'My name : ' +  ' Konrad ' + '\n';
 
 navigator.notigication.alert(info1);
 }
